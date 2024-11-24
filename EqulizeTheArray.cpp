@@ -60,6 +60,7 @@ class EqualizeTheArray
             return duplicates;
         }
         //Hello world
+        //Hello world
 };
 
 int main()
